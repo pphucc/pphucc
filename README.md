@@ -9,10 +9,13 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pphucc&show_icons=true&locale=en" alt="pphucc" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pphucc&" alt="pphucc" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=pphucc&show_icons=true&locale=en" alt="pphucc stats" height="200"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pphucc" alt="pphucc streak" height="200"/></td>
+  </tr>
+</table>
+
 
 ---
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pphucc&label=Profile%20views&color=0e75b6&style=flat" alt="pphucc" /> </p> -->
