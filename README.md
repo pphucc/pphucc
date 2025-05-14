@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://fb.com/pphucc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pphucc" height="30" width="40" />
+  <a href="https://fb.com/pphucc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pphucc" height="30" width="40" />
   </a>  
-  <a href="mailto:truongdinhphuc@gmail.com" target="_blank">
+  <a href="mailto:truongdinhphuc23@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="40" alt="gmail logo"  />
   </a> 
   <a href="https://www.linkedin.com/in/pphucc/" target="_blank">
